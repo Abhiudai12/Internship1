@@ -37,20 +37,17 @@ Evaluation:
 Cross-validation to ensure model robustness
 Metrics: Accuracy, Precision, Recall, F1-score
 
-Usage
+Usage :
 Install the required dependencies:
 text
 pip install torch transformers scikit-learn pandas numpy
 Prepare your dataset in CSV format with 'label' and 'text' columns.
 Run the Jupyter notebook to train and evaluate the model.
-Results
+
+Results:
 The model achieves 98% accuracy in predicting diseases from patient-reported symptoms, demonstrating its potential for assisting in medical diagnoses.
-Future Improvements
-Expand the dataset to cover more diseases and symptoms
-Implement a user-friendly interface for easy symptom input
-Explore ensemble methods to further improve accuracy
-Incorporate medical expert feedback to refine predictions
-Disclaimer
+
+Disclaimer:
 This tool is intended for research and educational purposes only. 
 It should not be used as a substitute for professional medical advice, diagnosis, or treatment. 
 Always consult with a qualified healthcare provider for medical concerns.
