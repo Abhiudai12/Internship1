@@ -21,6 +21,7 @@ The model is trained on a medical symptom dataset with the following structure:
 - `text`: A textual description of the patient’s symptoms
 
 Dataset file used: `Symptom2Disease.csv`
+https://www.kaggle.com/datasets/niyarrbarman/symptom2disease/
 
 ## Model Architecture
 
