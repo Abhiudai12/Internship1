@@ -1,4 +1,4 @@
-[Confusion_Matrix](https://github.com/Abhiudai12/Internship1/blob/main/confusion_matrix.png)
+![Confusion_Matrix](https://github.com/Abhiudai12/Internship1/blob/main/confusion_matrix.png)
 [Disease Prediction Example](intern_disease.png)
 DISEASE PREDICTION FROM PATIENT SYMPTOMS:- 
 This project utilizes a BERT-based model to predict diseases from patient-reported symptoms with 98% accuracy.
